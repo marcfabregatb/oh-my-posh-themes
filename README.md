@@ -1,5 +1,5 @@
 # oh-my-posh-themes
-Lately I've been playing witht he oh-my-posh templates. This is my ultimate theme.
+Lately I've been playing witht he oh-my-posh templates. This is my ultimate theme. I tested it on PowerShell core and Wsl2/Ubuntu
 
 It shows current:
 - SO
