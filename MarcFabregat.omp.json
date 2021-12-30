@@ -53,21 +53,11 @@
             "type": "path"
           },
           {
-            "background": "#fee761",
-            "foreground": "#262b44",
-            "powerline_symbol": "",
-            "properties": {
-              "ahead_and_behind_color": "#e43b44",
-              "ahead_color": "#2ce8f5",
-              "behind_color": "#f77622",
-              "display_stash_count": true,
-              "display_upstream_icon": true,
-              "local_changes_color": "#f77622",
-              "stash_count_icon": " ",
-              "status_colors_enabled": true
-            },
+            "type": "poshgit",
             "style": "powerline",
-            "type": "git"
+            "powerline_symbol": "\uE0B0",
+            "foreground": "#ffffff",
+            "background": "#0077c2"
           },
           {
             "background": "#007800",
